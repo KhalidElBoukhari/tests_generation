@@ -1,0 +1,21 @@
+testfunction1:
+  annotation: annotation for testfunction1
+  returnType: String
+  param1: Number
+  param2: String
+testfunction2:
+  annotation: annotation for testfunction2
+  returnType: Number
+  param1: Number
+  param2: Number
+testfunction3:
+  annotation: annotation for testfunction3
+  returnType: undefined
+  param1: Boolean
+  param2: Boolean
+testfunction4:
+  annotation: annotation for testfunction4
+  returnType: Array
+  param1: Object
+  param2: String
+  param3: Number
